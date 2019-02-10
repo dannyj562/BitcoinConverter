@@ -16,6 +16,7 @@ The following **required** user stories are complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://recordit.co/WaA9adcxQo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='http://g.recordit.co/WSgV6EvSkm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://recordit.co/4myN9b7Iow' title='Video Walkthrough' width='' alt='Video Walkthrough' />
