@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="converter.android.com.bitcoinconverter.SplashScreen"
+    android:background="@color/turquoise_green">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/splash_screen_title"
+        android:gravity="center"
+        android:text="@string/splash_screen_title"
+        android:textSize="50dp"
+        android:fontFamily="cursive"
+        android:textColor="@color/colorAccent"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

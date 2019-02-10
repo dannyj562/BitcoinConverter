@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="converter.android.com.bitcoinconverter.RegisterActivity"
+    android:background="@color/light_gray">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/welcome"
+        android:text="@string/welcome_text"
+        android:textSize="60dp"
+        android:layout_marginTop="30dp"
+        android:gravity="top|center"
+        android:textColor="@color/white"
+        android:fontFamily="cursive"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/nameEditText"
+        android:layout_centerInParent="true"
+        android:hint="@string/enter_name_text"
+        android:textColorHint="@color/white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerButton"
+        android:layout_below="@id/nameEditText"
+        android:layout_marginTop="50dp"
+        android:text="@string/enter_text"/>
+
+</RelativeLayout>

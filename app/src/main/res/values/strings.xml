@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitcoin Converter</string>
+    <string name="splash_screen_title">Bitcoin Converter</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="enter_name_text">Please enter name</string>
+    <string name="enter_text">Enter</string>
+    <string name="greeting_text">Hello!, Which currency would you like to convert?</string>
+</resources>
